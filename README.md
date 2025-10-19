@@ -13,17 +13,7 @@ This version introduces watercolor-inspired flowers that gracefully bloom and sp
 	•	Camera Shake → Scene vibrates with bass for a more immersive experience.
 	•	Failsafe Mode → If no microphone/audio device is detected, the visualizer runs with simulated audio input.
 
-⸻
-
-🖥️ Demo Preview
-	•	Flowers: Soft blue petals inspired by watercolor painting.
-	•	Leaves: Muted, curved green leaves unfurl naturally.
-	•	Sparkles: Gentle white particles fade with bloom.
-
-(Insert screenshot or GIF of running program here)
-
-⸻
-
 ⚙️ Installation
 
 Make sure you have Python 3.8+ installed.
+
